@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Makovitch Tchaptchey-Konda, I'm Currently studying a BSc in Computer Systems at Heriot-Watt University.
+### I'm Makovitch Tchaptchey-Konda, I'm currently studying a BSc in Computer Systems at Heriot-Watt University.
 <!--
 **mako128/mako128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
